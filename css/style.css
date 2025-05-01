@@ -1,3 +1,11 @@
+input[type="search"] {
+   background-repeat: no-repeat;
+   background-position: 10px center;
+   background-size: 14px 14px;
+   padding-left: 30px;
+   text-align: center;
+   font-size: 14px;
+   color: gray;}
 
 input.empty {
   font-family: FontAwesome;
